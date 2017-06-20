@@ -1,0 +1,6 @@
+C:\Users\ymine\ymine\dvlp\DotNet\HttpServerTest\HttpServerTest3\bin\Debug\HttpServerTest3.exe.config
+C:\Users\ymine\ymine\dvlp\DotNet\HttpServerTest\HttpServerTest3\bin\Debug\HttpServerTest3.exe
+C:\Users\ymine\ymine\dvlp\DotNet\HttpServerTest\HttpServerTest3\bin\Debug\HttpServerTest3.pdb
+C:\Users\ymine\ymine\dvlp\DotNet\HttpServerTest\HttpServerTest3\obj\Debug\HttpServerTest3.csprojResolveAssemblyReference.cache
+C:\Users\ymine\ymine\dvlp\DotNet\HttpServerTest\HttpServerTest3\obj\Debug\HttpServerTest3.exe
+C:\Users\ymine\ymine\dvlp\DotNet\HttpServerTest\HttpServerTest3\obj\Debug\HttpServerTest3.pdb

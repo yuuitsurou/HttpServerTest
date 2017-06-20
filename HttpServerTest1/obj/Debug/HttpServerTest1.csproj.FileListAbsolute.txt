@@ -1,0 +1,9 @@
+E:\dvlp\DotNet\HttpServerTest\HttpServerTest1\bin\Debug\HttpServerTest1.exe.config
+E:\dvlp\DotNet\HttpServerTest\HttpServerTest1\bin\Debug\HttpServerTest1.exe
+E:\dvlp\DotNet\HttpServerTest\HttpServerTest1\bin\Debug\HttpServerTest1.pdb
+E:\dvlp\DotNet\HttpServerTest\HttpServerTest1\obj\Debug\HttpServerTest1.csprojResolveAssemblyReference.cache
+E:\dvlp\DotNet\HttpServerTest\HttpServerTest1\obj\Debug\HttpServerTest1.exe
+E:\dvlp\DotNet\HttpServerTest\HttpServerTest1\obj\Debug\HttpServerTest1.pdb
+C:\Users\ymine\ymine\dvlp\DotNet\HttpServerTest\HttpServerTest1\bin\Debug\HttpServerTest1.exe.config
+C:\Users\ymine\ymine\dvlp\DotNet\HttpServerTest\HttpServerTest1\obj\Debug\HttpServerTest1.exe
+C:\Users\ymine\ymine\dvlp\DotNet\HttpServerTest\HttpServerTest1\obj\Debug\HttpServerTest1.pdb
