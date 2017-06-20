@@ -17,6 +17,9 @@ namespace HttpServerTest3
         static void Main(string[] args)
         {
             Run();
+            Console.WriteLine("Running...");
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
         }
 
         async static void Run()
